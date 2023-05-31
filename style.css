@@ -19,7 +19,8 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background: url('/img/ToDoBack8.avif') center/cover no-repeat fixed;
+  background: url('/ToDoListJS/img/ToDoBack8.avif') center/cover no-repeat fixed;
+
 }
 
 header {
